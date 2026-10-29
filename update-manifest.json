@@ -1,8 +1,8 @@
 {
-  "version": "10.1.0.1",
-  "url": "https://github.com/markomajeric-debug/MajericIT-Tool-Updates/releases/download/v10.1.0.1/MajericIT-Tool-v9-Setup.msi",
+  "version": "10.1.0.2",
+  "url": "https://github.com/markomajeric-debug/MajericIT-Tool-Updates/releases/download/v10.1.0.2/MajericIT-Tool-v9-Setup.msi",
   "signed": {
-    "payload": "eyJraW5kIjoidG9vbC1tYW5pZmVzdCIsInYiOjEsInZlcnNpb24iOiIxMC4xLjAuMSIsInVybCI6Imh0dHBzOi8vZ2l0aHViLmNvbS9tYXJrb21hamVyaWMtZGVidWcvTWFqZXJpY0lULVRvb2wtVXBkYXRlcy9yZWxlYXNlcy9kb3dubG9hZC92MTAuMS4wLjEvTWFqZXJpY0lULVRvb2wtdjktU2V0dXAubXNpIiwic2hhMjU2IjoiMEM1NTA5Qjg3ODYxMDZDQzBFN0MxQzUyNzJEMzBDMzg0MDEwMURGRUUzMTJBQkQ3RTYxNERDQjc2NEUzNjZDOCIsInNpemUiOjg3MjQ0OCwicHVibGlzaGVkVXRjIjoiMjAyNi0xMC0yOVQwNzo1MDo1Mi44MjMwMzM1WiJ9",
-    "sig": "o+xVGrZDXDHj+bU3LXp1uikzdXh6vU7y9IZbn76FuIueVn+RKyeTQniDVWMRxBI4ljNo9zwf+ODhi+wf3LAPpA=="
+    "payload": "eyJraW5kIjoidG9vbC1tYW5pZmVzdCIsInYiOjEsInZlcnNpb24iOiIxMC4xLjAuMiIsInVybCI6Imh0dHBzOi8vZ2l0aHViLmNvbS9tYXJrb21hamVyaWMtZGVidWcvTWFqZXJpY0lULVRvb2wtVXBkYXRlcy9yZWxlYXNlcy9kb3dubG9hZC92MTAuMS4wLjIvTWFqZXJpY0lULVRvb2wtdjktU2V0dXAubXNpIiwic2hhMjU2IjoiMTNEQ0VBOEUwREE0ODZBMTVFMjdBN0QzRUIwRDRCRDBCMEU5RTZEODdCNjRFMUIwRjkxMkFGNjhGRjE4QzU1RSIsInNpemUiOjg3MjQ0OCwicHVibGlzaGVkVXRjIjoiMjAyNi0xMC0yOVQwODozNDoyMS4xNTAyMzMwWiJ9",
+    "sig": "WiDkcg7ohpE9bETjxNXB1IfjzMX2oJP2w27KpwQxCgjL4JRgWbXsQ4rn+gyhCDzyr52k7meBxKDqNH7bEFvx2A=="
   }
 }
